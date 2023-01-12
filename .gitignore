@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# python
+.venv/
+__pycache__/
+
+# linter/formatter
+.mypy_cache/
+
+# editor
+.idea/
+.vscode/
